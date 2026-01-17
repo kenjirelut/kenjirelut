@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Software Engineer currently focused on game development.
+
+## I'm currently working on
+- payment backend systems
+
+## I'm actively learning 
+- Game dev fundamentals, systems and tooling.
+- Primary stack: C++, C#, Unreal Engine, .NET
+- Secondary interests: Python (tools), Go (systems)
 <!--
 **kenjirelut/kenjirelut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
