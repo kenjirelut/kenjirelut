@@ -5,7 +5,7 @@ Senior Software Engineer.
 ## I'm currently working on
 - renewable energy trading & risk management full stack systems.
 
-## I'm actively learning 
+## I currently have strong interests
 - Typescript, React, Game dev fundamentals, systems and tooling.
 - Primary stack: C++, C#, Unreal Engine, .NET, python
 - Secondary interests: Python (tools), Go (systems)
